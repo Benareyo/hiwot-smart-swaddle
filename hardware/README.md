@@ -30,7 +30,7 @@ Rev A (superseded): [`rev-a_monolithic`](schematics/rev-a_monolithic_2026-08-29.
 
 ## Simulation
 
-- [`proteus_bench-v0`](simulation/proteus_bench-v0_2026-08-29.png): Proteus 8 capture of the breathing-check front end, temperature sensor, opto-isolated PWM MOSFET heater driver, ESP8266, LCD and alarm stage.
+- [`proteus_bench-v0`](../YOUR_PROTEUS_FOLDER/<existing-file-name>.png): Proteus 8 capture of the breathing-check front end, temperature sensor, opto-isolated PWM MOSFET heater driver, ESP8266, LCD and alarm stage.
 
 ## Enclosure (FreeCAD)
 
