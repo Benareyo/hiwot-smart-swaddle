@@ -51,3 +51,18 @@ python train_model.py
 
 ## Team (alphabetical)
 Beemnet Girum, Betelhem Tadesse, Bethel Yohanes, Dawit Mulugeta, Etsub Dessalegn, Eyuel Wondafrash, Musab Mohammedamin, Yonas Solomon. This was a collaborative build; roles are in the proposal (Section 13).
+
+## Hardware
+
+| | |
+|---|---|
+| Controller | ATmega328P (thermal control, apnea detection, LCD) |
+| Connectivity | ESP8266 (ESP-01S) telemetry bridge |
+| Sensing | Dual NTC (baby / environment), piezo respiration sensor with LM358 conditioning |
+| Heating | PTC heater, PWM-driven IRLZ44N, independent 5 A thermal fuse |
+| Power | 3S Li-ion + BMS, fused, reverse-protected, TPS62160 5 V / 3.3 V rails |
+
+![Main controller](hardware/schematics/rev-b_sheet3_main-controller_2026-09-21.png)
+
+Full schematics, PCB, simulation and enclosure files: [`hardware/`](hardware/README.md).
+Project proposal and status report: [`docs/Hiwot_Proposal_Final.pdf`](docs/Hiwot_Proposal_Final.pdf).
