@@ -1,4 +1,4 @@
-# Hiwot Smart Swaddle (ህይወት)
+# Hiwot Smart Swaddle 
 
 **Hiwot Medical Technologies**: a low-cost, fail-safe heated smart swaddle with breathing (apnea) monitoring and a nursing-station dashboard for preterm infants in Ethiopian hospitals.
 INSA Summer Bootcamp 2026 project, 8-person student team.
