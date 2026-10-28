@@ -66,3 +66,4 @@ Beemnet Girum, Betelhem Tadesse, Bethel Yohanes, Dawit Mulugeta, Etsub Dessalegn
 
 Full schematics, PCB, simulation and enclosure files: [`hardware/`](hardware/README.md).
 Project proposal and status report: [`docs/Hiwot_Proposal_Final.pdf`](docs/Hiwot_Proposal_Final.pdf).
+Project proposal and status report: [`docs/Hiwot_Medical_Technologies.pdf`](docs/Hiwot_Medical_Technologies.pdf)
